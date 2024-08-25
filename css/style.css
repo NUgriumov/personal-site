@@ -1,0 +1,18 @@
+.interests {
+    height: 150px;
+    border-radius: 10%;
+  }
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.poppins {
+  font-family: Poppins;
+}
+
+.lora {
+  font-family: Lora;
+}
